@@ -1,0 +1,16 @@
+{
+    "enabled": true,
+    "words": [
+        "cake",
+        "banana",
+        "horse"
+    ],
+    "flaggedForReviewChannel": "review-required",
+    "commandChannel": "talk-to-the-boop",
+    "filteredChannels": [
+        "borkborkbork",
+        "review-required"
+    ],
+    "muteCommand": "!mute @{{name}} {{minutes}} {{reason}}",
+    "warnCommand": "!warn @{{name}} {{minutes}} {{reason}}"
+}
